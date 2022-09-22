@@ -1,0 +1,14 @@
+﻿  main.cpp
+C:\Users\Oryan\Desktop\Mars\code and process injection\processHollowing\processHollowing\main.cpp(94,5): warning C4311: 'type cast': pointer truncation from 'PVOID' to 'DWORD'
+C:\Users\Oryan\Desktop\Mars\code and process injection\processHollowing\processHollowing\main.cpp(94,5): warning C4302: 'type cast': truncation from 'PVOID' to 'DWORD'
+C:\Users\Oryan\Desktop\Mars\code and process injection\processHollowing\processHollowing\main.cpp(97,10): warning C4477: 'printf' : format string '%#x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'PVOID'
+C:\Users\Oryan\Desktop\Mars\code and process injection\processHollowing\processHollowing\main.cpp(97,10): warning C4313: 'printf': '%x' in format string conflicts with argument 1 of type 'PVOID'
+C:\Users\Oryan\Desktop\Mars\code and process injection\processHollowing\processHollowing\main.cpp(140,184): warning C4311: 'type cast': pointer truncation from 'PVOID' to 'DWORD'
+C:\Users\Oryan\Desktop\Mars\code and process injection\processHollowing\processHollowing\main.cpp(140,184): warning C4302: 'type cast': truncation from 'PVOID' to 'DWORD'
+C:\Users\Oryan\Desktop\Mars\code and process injection\processHollowing\processHollowing\main.cpp(140,9): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'DWORD'
+C:\Users\Oryan\Desktop\Mars\code and process injection\processHollowing\processHollowing\main.cpp(140,9): warning C4313: 'printf': '%p' in format string conflicts with argument 1 of type 'DWORD'
+C:\Users\Oryan\Desktop\Mars\code and process injection\processHollowing\processHollowing\main.cpp(140,9): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 2 has type 'DWORD'
+C:\Users\Oryan\Desktop\Mars\code and process injection\processHollowing\processHollowing\main.cpp(140,9): warning C4313: 'printf': '%p' in format string conflicts with argument 2 of type 'DWORD'
+C:\Users\Oryan\Desktop\Mars\code and process injection\processHollowing\processHollowing\main.cpp(140,9): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 3 has type 'DWORD'
+C:\Users\Oryan\Desktop\Mars\code and process injection\processHollowing\processHollowing\main.cpp(140,9): warning C4313: 'printf': '%p' in format string conflicts with argument 3 of type 'DWORD'
+  processHollowing.vcxproj -> C:\Users\Oryan\Desktop\Mars\code and process injection\processHollowing\x64\Debug\processHollowing.exe
